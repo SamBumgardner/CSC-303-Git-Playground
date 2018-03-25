@@ -1,1 +1,3 @@
 This is the 3rd comment for assignment 1 on branch 3.
+
+This assignment helped me understand github and repos a lot easier than in past classes.
