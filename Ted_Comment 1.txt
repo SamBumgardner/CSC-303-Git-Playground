@@ -1,3 +1,0 @@
-This is a comment for our first assignment in branch 1.
-
-It is a very simple task.
