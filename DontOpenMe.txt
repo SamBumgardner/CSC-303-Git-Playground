@@ -2,3 +2,7 @@ Didn't read the title, did you. Rebel Scum
 It's A Trap!
 
 Star Wars > Star Trek ???
+
+Star Wars != Star Trek
+ but
+O(Star Wars) == O(Star Trek)
