@@ -47,6 +47,7 @@ you'll float two
 you'll float too
 you'll float too
 you'll float too
+float too, you will
 you'll float too
 you'll float too
 you'll float too
@@ -58,3 +59,4 @@ you'll float too
 you'll float too
 you'll float too
 hell
+hell, you'll float!
