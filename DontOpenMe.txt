@@ -25,3 +25,4 @@ Ha-ha, you fool! You fell victim to one of the classic
 blunders, the most famous of which is "Never get involved
 in a land war in Asia," but only slightly less well known is this:
 Don't open a file titled DontOpenMe.txt
+  Maniacal Laughter
