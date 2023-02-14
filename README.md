@@ -1,4 +1,6 @@
 # CSC-303-Git-Playground
+### Back to main Class GitHub page [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 This is a repository where students in MSU's CSC 303 can play around with Git in a safe repository.
 
 Miranda McCoy just wanted to say hello :D
