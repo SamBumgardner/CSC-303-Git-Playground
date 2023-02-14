@@ -2,10 +2,10 @@
             /                                                    \
            |    _____________________________________________     |
            |   |                                             |    |
-           |   |  C:\User\Dude> java -verson                 |    |
-           |   |                                             |    |
-           |   |                                             |    |
-           |   |                                             |    |
+           |   |  C:\User\Dude> java -version                |    |
+           |   |  C:\User\Dude> echo $truth                  |    |
+           |   |  C# is Java but better.                     |    |
+           |   |  C:\User\Dude> ▄                            |    |
            |   |                                             |    |
            |   |                                             |    |
            |   |                                             |    |
