@@ -5,7 +5,10 @@
            |   |  C:\User\Dude> java -version                |    |
            |   |  C:\User\Dude> echo $truth                  |    |
            |   |  C# is Java but better.                     |    |
+           |   |  C:\User\Dude> mkdir CSC-303-Git-Playground |    |
            |   |  C:\User\Dude> ▄                            |    |
+           |   |                                             |    |
+           |   |                                             |    |
            |   |                                             |    |
            |   |                                             |    |
            |   |                                             |    |
