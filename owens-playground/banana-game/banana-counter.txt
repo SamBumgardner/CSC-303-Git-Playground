@@ -1,1 +1,1 @@
-You have twenty bananas. You can survive the harvest.
+You have no bananas. You can't survive the harvest. Goodbye.
